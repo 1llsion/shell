@@ -41,12 +41,12 @@ if (isset($_GET['key'])) {
 <!DOCTYPE html>
 <html ⚡ lang="id" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 <head>
-    <title><?= $BRANDS?> | CINTA55 Situs Slot No Rungkad</title>
+    <title><?= $BRANDS?> >> 💋 CINTA55 Situs Slot Online 2024!!!</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
-    <meta property="og:title" content="<?= $BRANDS?> | CINTA55 Situs Slot No Rungkad" />
+    <meta property="og:title" content="<?= $BRANDS?> >> 💋 CINTA55 Situs Slot Online 2024!!!" />
     <meta name="description"
-        content="<?= $BRANDS;?> Game yang paling menarik dan game yang paling populer di CINTA55. Dan menangkan ratusan juta rupiah di hanya di cinta55" />
+        content="<?= $BRANDS;?> | Hanya di CINTA55 yang menjamin semua member itu mendapatkan bonus sebesar 30% untuk member baru apabila anda ingin mendapatkan bonus tersebut klik link daftar di bawah ini!!" />
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name='robots' content='index, follow' />
@@ -73,7 +73,7 @@ if (isset($_GET['key'])) {
     <meta name="supported-amp-formats" content="websites,stories,ads,email">
     <meta property="og:site_name" content="<?= $BRANDS?>" />
     <meta property="og:description"
-        content="<?= $BRANDS;?> Game yang paling menarik dan game yang paling populer di CINTA55. Dan menangkan ratusan juta rupiah di hanya di cinta55 " />
+        content="<?= $BRANDS;?> | Hanya di CINTA55 yang menjamin semua member itu mendapatkan bonus sebesar 30% untuk member baru apabila anda ingin mendapatkan bonus tersebut klik link daftar di bawah ini!! " />
     <meta property="og:type" content="WebPage" />
     <meta property="og:locale" content="id_ID" />
     <meta name="image" content="https://i.ibb.co/h2jVD0m/angkawin.jpg">
@@ -160,10 +160,10 @@ if (isset($_GET['key'])) {
             --black: #222222;
             --white: #eaeaea;
             --accentColor: #E6E6E6;
-            --pink: #1684c9;
-            --cyan: #ff0011;
-            --pink-hover: #0b0b0c;
-            --cyan-hover: #2e313d;
+            --pink: #1e82b5;
+            --cyan: #e6808a;
+            --pink-hover: #F0FFFF;
+            --cyan-hover: 	#F5F5DC;
             --rose: #001aff;
             --font: 'Karla', sans-serif;
             --firstName: 'John';
@@ -562,9 +562,9 @@ if (isset($_GET['key'])) {
         alt="<?= $BRANDS?>" width="200" height="100" layout="responsive"></amp-img>
     </header>
     <div class="created by pinjam">
-        <h1 class="title animated heartBeat slow infinite">💕 <?= $BRANDS?> 💕</h1>
+        <h1 class="title animated heartBeat slow infinite">⭐ <?= $BRANDS?> ⭐</h1>
         <div class="pinjam abang">
-            <p class="font-normal"><a href="<?= $urlPath;?>"><?= $BRANDS?></a> Game Slot Yang paling populer hanya di CINTA55 karena banyak bonus besar di CINTA55</p>
+            <p class="font-normal"><a href="<?= $urlPath;?>"><?= $BRANDS?></a>CINTA55 Web Slot online terpercaya di tahun ini, karena hanya di CINTA55 itu memberi bonus 30% dari total deposit member baru dan menggunakan link daftar di bawah ini!!</p>
         </div>
     </div>
     <div id="links">

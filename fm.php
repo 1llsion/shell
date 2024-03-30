@@ -8,7 +8,7 @@ $use_auth = true;
 
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...), Password has to encripted into MD5
 $auth_users = array(
-    'admin' => '5a42761861c9dbd5867d7b39e755f9fc', //admin
+    'admin' => '21232f297a57a5a743894a0e4a801fc3', //admin
     'user' => '827ccb0eea8a706c4c34a16891f84e7b', //12345
 );
 

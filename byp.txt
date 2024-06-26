@@ -1,0 +1,89 @@
+POST /dist/profil/edit-profil.php HTTP/2
+Host: lib.sdntanjung2.sch.id
+Cookie: PHPSESSID=336433416a596878760d8446d02d7fca
+Content-Length: 5546
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: https://lib.sdntanjung2.sch.id
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryy24NRMMCMLg6B5BQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://lib.sdntanjung2.sch.id/dist/index.php?page=profil&edit=gagal
+Accept-Encoding: gzip, deflate, br
+Accept-Language: id-ID,id;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6,ms;q=0.5
+Priority: u=0, i
+
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="id_pengguna"
+
+100
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="id_anggota"
+
+82
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="nama"
+
+Shhshs
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="email"
+
+ashilturquoise@awgarstone.com
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="no_telp"
+
+567567567
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="tempat_lahir"
+
+
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="tanggal_lahir"
+
+
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="alamat"
+
+
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="jenis_kelamin"
+
+Pilih
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="foto_saat_ini"
+
+foto_default.png
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="foto_baru"; filename="*filename*"
+Content-Type: *mimetype*
+
+
+*data*
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="username_baru"
+
+asepganteng
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="username_lama"
+
+asepganteng
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="password"
+
+dd64623438c20336714cb3b9a7aed484
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="id_pengguna"
+
+100
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ
+Content-Disposition: form-data; name="simpan_profil"
+
+
+------WebKitFormBoundaryy24NRMMCMLg6B5BQ--

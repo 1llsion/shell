@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return redirect()->route('dashboard');
+    return redirect()->route('loic');
 });
 
 
@@ -47,6 +47,6 @@ Route::middleware('auth')->group(function () {
 
 require __DIR__ . '/auth.php';
 
-Route::get('/loic', function () {
-    return view('loic');
-});
+// Route::get('/loic', function () {
+//     return view('loic');
+// });

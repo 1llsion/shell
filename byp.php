@@ -13,9 +13,7 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-Route::get('/popo', function () {
-    return redirect()->route('loic');
-});
+
 Route::get('/', function () {
     return redirect()->route('dashboard');
 });
@@ -49,3 +47,6 @@ Route::middleware('auth')->group(function () {
 
 require __DIR__ . '/auth.php';
 
+Route::get('/loic', function () {
+    return view('loic');
+});

